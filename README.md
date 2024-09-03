@@ -84,11 +84,11 @@ Debido a la complejidad de uso de Redux, es importante reconocer que no siempre 
 
 1. Sobrecarga en aplicaciones pequeñas: Para aplicaciones simples, Redux puede agregar una complejidad innecesaria, haciendo que el código sea más difícil de manejar.
 
-2. Curva de aprendizaje: Aunque poderoso, Redux tiene una curva de aprendizaje considerable. Los desarrolladores deben comprender bien conceptos como acciones, reducers, y middlewares.
+2. Curva de aprendizaje: Redux tiene una curva de aprendizaje considerable. Los desarrolladores deben comprender bien conceptos y actualizarse constantemente.
 
-3. Verbosidad: La estructura de Redux tiende a ser más verbosa en comparación con el uso del estado local de React. Esto puede hacer que la base de código sea más extensa y difícil de leer.
+3. Verbosidad: Esto puede hacer que la base de código sea más extensa y difícil de leer.
 
-4. Rendimiento: Aunque raro, si no se implementa correctamente, Redux puede causar problemas de rendimiento, especialmente en grandes aplicaciones donde se desencadenan muchas acciones y cambios de estado.
+4. Rendimiento: Redux puede causar problemas de rendimiento, especialmente en grandes aplicaciones donde se desencadenan muchas acciones y cambios de estado.
 
 
 En resumen, Redux es una gran herramienta para manejar el estado de nuestras apliaciones React, especialmente en aquellas que son grandes o tienen un estado complejo. Sin embargo, tenemos que usarlo con precaución y sólo cuando sepamos que realmente es necesario usarlo, ya que podemos darle complejidad innecesaria a aplicaciones más simples.
